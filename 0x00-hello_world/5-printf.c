@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - This is where the code begins to run and execute
- * return - This is where the code will be successful if the return is 0
+ * main - Entry point
+ * Return: 0 if successful
  */
 int main(void)
 {
