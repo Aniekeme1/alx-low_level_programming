@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *  function main begins the execution of the program
- *  return 0 indicates that the programme is successful
+ *  Description: main - function main begins the execution of the program
+ *  Return: 0 indicates that the programme is successful
  */
 int main(void)
 {
