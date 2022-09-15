@@ -2,7 +2,7 @@
 
 /**
  * _islower - Checks if a character is lowercase.
- * c: The character to be checked.*
+ * @c: The character to be checked.*
  * Return: 1 if true, else 0.
  */
 int _islower(int c)
