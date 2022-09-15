@@ -1,27 +1,15 @@
 #include "main.h"
-
 /**
- * print_most_numbers - Prints except 2 and 4.
+ *mul - multiplies two ints.
+ *@a: integer.
+ *@b: integer.
  *
- * Return: Always 0 (Success)
+ *Return: product.
  */
-
-void print_most_numbers(void)
+int mul(int a, int b)
 {
-int i;
+	int product;
 
-i = 0;
-
-for (i = 0; i < 10; i++)
-{
-
-if (i == 2 || i == 4)
-
-i++;
-
-_putchar(i + '0');
-
-}
-_putchar ('\n');
-
+	product = a * b;
+	return (product);
 }
