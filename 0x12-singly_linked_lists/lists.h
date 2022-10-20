@@ -8,6 +8,7 @@
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
+ * B
  * @len: length of the string
  * @next: points to the next node
  *
